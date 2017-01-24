@@ -1,5 +1,5 @@
 {
-  "name": "edofre/laravel-fullcalendar",
+  "name": "migmae/laravel-fullcalendar",
   "description": "Laravel component for fullcalendar package",
   "require": {
     "php": ">=5.6.4",
